@@ -1,0 +1,35 @@
+.remove-btn {
+            color: red;
+            cursor: pointer;
+        }
+p {
+    font-size: 20px;
+}
+h1 {
+ display: inline-block;  
+            background-color: blue
+  
+}
+h1.solid {border-style: solid;
+}
+h1 {
+    font-size: 30px;
+}
+p {
+  color: black;
+}
+p{
+  background-color: yellow; 
+}
+p.thick {
+  font-weight: bold;
+}
+p {
+  text-decoration: underline;
+}
+h2 {
+   display: inline-block;  
+            background-color: red;
+}
+
+
